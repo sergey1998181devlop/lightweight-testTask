@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #131722;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+}
+#chart-container {
+    width: 100vw;
+    height: 100vh;
+}
